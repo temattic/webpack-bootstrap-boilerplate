@@ -1,5 +1,7 @@
 # Webpack 5 + Bootstrap 5 + SASS Boilerplate
 
+<img src="https://a.storyblok.com/f/125390/1280x640/dc049285c4/webpack_bootstrap_boilerplate_cover.jpg" alt="Website boilerplate">
+
 Webpack boilerplate for Bootstrap 5 templates
 
 ### Installation
