@@ -1,0 +1,9 @@
+{
+  "extends": ["stylelint-config-twbs-bootstrap"],
+  "ignoreFiles": ["src/scss/vendor/**/*.scss", "dist/**/*.css"],
+  "rules": {
+    "selector-no-qualifying-type": null,
+    "number-leading-zero": "always",
+    "length-zero-no-unit": null
+  }
+}
